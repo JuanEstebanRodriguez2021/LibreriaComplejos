@@ -1,4 +1,4 @@
-# LibreriaComplejos
+# Libreria Complejos
 La librería contiene las siguientes operaciones entre números complejos:
 
 - Suma
